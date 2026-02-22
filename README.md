@@ -47,6 +47,8 @@ mvn spring-boot:run
 
 http://localhost:8080/your-endpoint
 
+Endpoint - singleton, prototype, request
+
 📌 Learning Outcomes
 
 - Understanding Spring Bean Scopes
@@ -57,4 +59,5 @@ http://localhost:8080/your-endpoint
 👩‍💻 Author
 
 Samiksha Purohit
+
 Java Backend Developer | Computer Science Student
